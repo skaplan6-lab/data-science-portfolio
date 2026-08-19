@@ -1,4 +1,4 @@
-# Your Name
+# Samantha Kaplan
 Data Science Student  
 UNC Charlotte
 ## About Me
